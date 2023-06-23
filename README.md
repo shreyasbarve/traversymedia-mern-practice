@@ -1,1 +1,1 @@
-# mern-practice
+# mern-practice by Traversy Media
